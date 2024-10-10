@@ -8,11 +8,7 @@
 
 Camhack is a bash based script which is officially made for termux from this tool you can hack victims camera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
 
-CODED BY : AKSHAY🔥
-
-Instagram : https://www.instagram.com/_thearjun_
-
-YouTube : https://m.youtube.com/channel/UCeLPNpBz3FKfh8FiHDhNcRA
+CODED BY : LOKESH
 
 IF YOU THINK I COPIED YOUR CODE!! LOOK AT YOUR FACE 🤡 IN MIRROR!! CREDIT STEALER🤬!
     
@@ -61,7 +57,7 @@ to see captured images >>>
 
 $ ls
 
-$ open (image name with .png)
+$ xdg-open (image name with .png)
 
 
 
@@ -71,12 +67,9 @@ $ open (image name with .png)
 
 * Note:- Don't delete any of the scripts included in camhack files
 
-### 📢 Subscribe our channel on youtube:
-
-https://m.youtube.com/channel/UCeLPNpBz3FKfh8FiHDhNcRA
 
 ### 📢 Instagram: 
-https://www.instagram.com/_thearjun_
+https://www.instagram.com/your_name_is_what__/profilecard/?igsh=MXhuOWNzMmxzZDE4aQ==
 
 
 
