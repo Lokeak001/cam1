@@ -27,16 +27,16 @@ $ apt-get update -y
 $ apt-get upgrade -y
 ```
 ```
-$ pkg install python -y 
+$ sudo apt install python -y 
 ```
 ```
-$ pkg install python2 -y
+$ sudo apt install python2 -y
 ```
 ```
-$ pkg install git -y
+$ sudo apt install git -y
 ```
 ```
-$ pip install lolcat
+$ sudo apt install lolcat
 ```
 ```
 $ git clone https://github.com/PlanetHackers-YT/camhack
